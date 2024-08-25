@@ -1,6 +1,6 @@
 algoritmo "semnome"
 // Solicite um número qualquer e informe ao usuário se o mesmo é “PAR” ou se é “IMPAR”
-// Autor :
+// Autor :  VITOR HUGO ASSIS DA SILVA
 // Data : 22/08/2024
 // Seção de Declarações
 var
