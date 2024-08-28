@@ -1,0 +1,60 @@
+O QUE É UM SOFTWARE?
+-uma criação intelectual compreendendo os programas, procedimentos, regras e qualquer documentação correlata a operação de
+um sistema de processamento de dados;
+-Segmento de instruções que serão analisadas e processadas pelo computador;
+-comandam o funcionamento de qualquer computador, ja que a parte logica que fornece explicações para o hardware, e nao o 
+contrario;
+-software é composto tbm pela documentação que é associada a esses programas;
+-qualquer conjunto de instruções que direciona o processador de um computador a executar operações específicas;
+-NEM TODO SOFTWARE PODE SER CONSIDERADO UM PRODUTO DE SOFTWARE, porque para ser um produto de software precisa de usuarios,
+e alguns softwares nao tem usuarios. Existem softwares que sao drivers de dispositivos de hardware, firmware, etc;
+-SOFTWARE DE COMPUTADOR: Tecnologia mais importante no cenário atual, com o passar do cenário, sao criados novas tecnologias
+que tornam mais facil, rapido e barato desenvolver e manter programas de computador de alta qualidade;
+-transporte, medicina, telecomunicações, industrias, setor militar, entretenimento, etc;
+
+INFORMAÇÃO (o que o software distribui)
+-produto mais importante presente atualmente;
+
+SOFTWARE X HARDWARE
+-software nao desgasta, nao é suscetível aos fatores ambientais, mas sim se deteriora devido a modificações;
+-software continua a ser construído sob encomenda;
+-hardware sao componentes fisicos, aquilo que voce consegue pegar, palpável, o software sao programas e sistemas operacionais
+que sao executados pelo hardware;
+-o software é o conjunto de instruções que diz ao hardware o que ele deve fazer;
+
+HISTORIA DA ENGENHARIA DE SOFTWARE
+-Primeira vez mencionado pela conferencia da OTAN na alemanha, em 1968;
+-Essa disciplina surgiu com um objetivo de contornar a crise que estava se abatendo no software e dar a ele um tratamento de
+engenharia;
+
+CRISE DO SOFTWARE
+-Falta de gestao responsavel no desenvolvimento do software, como resistencia a mudanças, falta de novas tecnicas;
+ADMINISTRATIVO (mito1) = Achar que a presença de um manual com padrões e precedimentos para a construção do software seria
+o necessário para a minha equipe. Na verdade nao é assim, esse material ta atualizado? ele realmente é de facil entendimento?
+ADMINISTRATIVO (mito2) = Achar que apenas ter ferramentas de desenvolvimento de ultima geração é necessário para desenvolver
+softwares de alta qualidade;
+ADMINISTRATIVO (mito3) = "Acrescentar pessoas no projeto para resolver o atraso de entrega é uma boa ideia". Na verdade nao,
+capaz de atrapalhar mais ainda a equipe;CLIENTE (mito1) = "Uma definição simples e inicial ja basta para o desenvolvimento do 
+projeto". Na verdade nao, é necessario uma descrição formal e aprofundada para a equipe realmente entender a necessidade do 
+projeto e como ele deve ser pra satisfazer as necessidades do cliente;
+CLIENTE (mito2) = "Como os requisitos do projeto modificam-se continuamente, posso pedir mudanças no meio do projeto". Nao,
+uma mudança pedida tardiamente pode acabar por confundir todo o processo de desenvolvimento, tendo que voltar atras de varias
+etapas para fazer modificações. Tem fases do desenvolvimento que suportam sim mudanças, outras já não;
+PROFISSIONAL (mito1) = "É apenas desenvolver e entregar o software e pronto, nao vou precisar mais trabalhar com ele". Na 
+verdade, grande parte das manutenções e esforços vem depois da entrega, quando o projeto está realmente rodando;
+PROFISSIONAL (mito2) = Achar que a qualidade do software só é possivel de ser avaliada quando o programa estiver funcionando.
+Na verdade, o programa funcionando é apenas uma parte de uma configuração de Software, é uma construção;
+
+
+Diante desse cenário, entra a ENGENHARIA DE SOFTWARE:
+DEFINIÇÃO 01 = Utilizar principíos solidos de engenharia para que o software se torne um produto confiável e que funcione 
+eficientemente nas máquinas;
+DEFINIÇÃO 02 = Abordagem sistemáticas, disciplinada para o desenvolvimento do software, operação e manutenção do mesmo;
+DEFINIÇÃO 03 = Engenharia de software usa conhecimento de outros ramos como ciencia da computação, matemática para obter
+soluções para os problemas de software;
+-rigor, disciplina, qualidade, abordadem sistemática, processos, ferramentas, etc;
+-testes, manutenções, garantia de qualidade, padrões de projetos, etc;
+-Falamos em toda a documentação, dados, configurações necessários para fazer um programa operar corretamente;
+-Diretrizes e aquisição de conhecimentos por parte tambem da equipe e membros, comportamentos para que tudo ocorra como o 
+esperado;
+
