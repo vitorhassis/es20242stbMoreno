@@ -1,0 +1,55 @@
+AULA 02
+
+COMO FAÇO PARA DESENVOLVER UM SOFTWARE? (ATIVIDADES)
+-Para desenvolver um software, é necessário uma abordagem sistemática, disciplinada e possível de ser medida para o desenvolvimento, operação e manutenção do software;
+-O QUE? QUANDO? COMO? QUEM?
+-ESPECIFICAÇÃO - PROJETO - IMPLEMENTAÇÃO - VALIDAÇÃO DE SOFTWARE - EVOLUÇÃO;
+ESPECIFICAÇÃO = estudo de viabilidade, analise de requisitos (conversar com o cliente sobre o que ele quer, qual a ideia), especificação dos requisitos (filtrar/aperfeiçor melhor os requisitos);
+PROJETO E IMPLEMENTAÇÃO = Cria uma representação/modelo do software. Fornecendo detalhes sobre sua estrutura, aquitetura, interfaces, componentes. Na implementação, o sistema é CODIFICADO. Ocorrendo
+a tradução da descrição computacional na fase de projeto em CÓDIGO EXECUTAVEL;
+VALIDAÇÃO DE SOFTWARE = Testes que vao definir se o software está de acordo com suas especificações e que atendem as expectativas do usuário/cliente;
+MANUTENÇÃO E EVOLUÇÃO = O software evolui de modo a atender as modificações das necessidades do usuário. O teste é feito na validação, aqui aplicamos as mudanças necessárias;
+
+(ARTEFATOS)
+-Resumindo: Documentação das etapas listadas acima, em ATIVIDADES;
+-ESPECIFICAÇÃO DE SOFTWARE= documentos de requisitos;
+-PROJETO E IMPLEMENTAÇÃO= documento de projeto, codigo fonte, manuais do software;
+-VALIDAÇÃO DO SOFTWARE= testes e defeitos de software, documentação da validação;
+-EVOLUÇÃO DE SOFTWARE= requisitos de mudança ou evolução a serem implementados;
+
+CICLO DE VIDA DE UM SOFTWARE
+-Descreve a vida de um produto de software desde sua concepção até a sua implementação, uso, manutenção;
+
+MODELOS DE CICLO DE VIDA DE SOFTWARE
+CASCATA
+-Principalmente quando precisamos fazer adaptações ou aperfeiçoamentos em um sistema JÁ EXISTENTE, ou uma nova adaptação necessária;
+-Abordagem sequencial e sistemática para o desenvolvimento de software;
+-REQUISITOS->PROJETO->IMPLEMENTAÇÃO->VERIFICAÇÃO->MANUTENÇÃO.
+-Paradigma mais antigo da engenharia de software;
+-Recebe muitas críticas, pelo fato de que os projetos de software reais raramentre seguem um fluxo sequencial dessa maneira, onde cada parte só é iniciada quando a anterior for finalizada;
+-Nao terá uma versão operacional (tipo um prototipo para o cliente ver como ta ficando) até estarmos proximo ao final do projeto, ja que o fluxo segue daquela maneira;
+-Um erro no começo caga tudo;
+-Equipe aguardando as outras etapas serem finalizadas;
+
+PROTOTIPAÇÃO
+-Cliente e desenvolvedor define os objetivos gerais do software;
+-Projeto rapido, ou seja, principalmente os aspectos visíveis ao usuário;
+-Vão refinando os requisitos a ser desenvolvido;
+-Aproxima mais Desenvolvedor-cliente, para melhor entendimento do que deve ser elaborado e desenvolvido;
+-Ideal para quando o cliente definiu um conjunto de objetivos gerais para o software, mas nao identificou ainda como será feito com detalhes;
+-As vezes, o cliente confunde o protótipo com o produto final, querendo utilizar logo o protótipo ao invés de esperar mais um tempo para o produto refinado;
+
+INCREMENTAL
+-Sistemas pequenos;
+-Combina elementos do modelo cascata com a filosofia iterativa da prototipação;
+-Trabalhar junto do usuário para entender o requisitos, incrementando até o produto final ser obtido;
+-como se a cada rodada, é desenvolvido um pedaço do software;
+-Vantagem está, em quando não se tem ainda uma especificação detalhada dos requisitos, voce vai desenvolvendo de acordo com ciclos;
+-Porem o processo não é visivel;
+
+MODELO ITERATIVO E INCREMENTAL
+-Segue a ideia do incremental, de a cada novo ciclo ser desenvolvido uma nova parte do software, mas aqui, desde o primeiro ciclo ja se tem um projeto FUNCIONAL que pode ser mostrada e funcional para o cliente; 
+
+ESPIRAL
+-Engloba as melhores caracteristicas do modelo cascata e prototipação, porém adiciona um novo elemento: ANALISE DE RISCOS;
+-
