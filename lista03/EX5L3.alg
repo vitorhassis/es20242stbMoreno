@@ -9,6 +9,6 @@ inicio
 x<-31
 repita
 x<-x-1
-escreval(x)
+escreva(x)
 ate x=5
 fimalgoritmo

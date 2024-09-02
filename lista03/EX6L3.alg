@@ -10,18 +10,14 @@ age: inteiro
 inicio
 escreva("Digite seu nome: ")
 leia(name)
-escreva("Digite sua idade: ")
+
+repita
+escreva("Digite sua idade (entre 10 e 100): ")
 leia(age)
+ate (age>=10) e (age<=100)
+
+repita
 escreva("Digite seu genero com F/M: ")
 leia(gender)
-
-se (gender<> "F") e (gender <> "M") entao
-   escreva("Por favor, informe apenas com M e F e idade entre 10 e 100")
-senao
-   se (age<10) e (age>100) entao
-      escreva("Por favor, idade apenas entre 10 e 100")
-   senao
-      escreval("Dados armazenados com sucesso!")
-   fimse
-fimse
+ate (gender="M") ou (gender="F")
 fimalgoritmo
