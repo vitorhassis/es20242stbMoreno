@@ -47,7 +47,7 @@ INCREMENTAL
 -Vantagem está, em quando não se tem ainda uma especificação detalhada dos requisitos, voce vai desenvolvendo de acordo com ciclos;
 -Porem o processo não é visivel;
 
-MODELO ITERATIVO E INCREMENTAL
+MODELO ITERATIVO
 -Segue a ideia do incremental, de a cada novo ciclo ser desenvolvido uma nova parte do software, mas aqui, desde o primeiro ciclo ja se tem um projeto FUNCIONAL que pode ser mostrada e funcional para o cliente; 
 
 ESPIRAL
