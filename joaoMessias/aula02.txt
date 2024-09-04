@@ -52,4 +52,18 @@ MODELO ITERATIVO
 
 ESPIRAL
 -Engloba as melhores caracteristicas do modelo cascata e prototipação, porém adiciona um novo elemento: ANALISE DE RISCOS;
--
+-segue a abordagem de passos sistemáticos do ciclo de vida classico;
+-Produto desenvolvido em uma série de iterações/voltas na forma ESPIRAL (dai o nome);
+-PRODUTOS EM CURTO PRAZO;
+-visibilidade ao cliente;
+-usa uma abordagem que capacita o desenvolvedor e o cliente entender e reagir aos riscos em cada etapa evolutiva;
+
+ESPIRAL X INCREMENTAL
+-Espiral pode ligar com projetos grandes;
+-A sobreposição de fases nao é possivel;
+-é necessária uma grande equipe;
+
+
+REUSO
+-foco no reuso de software;
+-entrega mais rapida;

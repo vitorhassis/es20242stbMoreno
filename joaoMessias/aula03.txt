@@ -1,0 +1,77 @@
+METODOLOGIAS AGEIS
+-abordagens alternativas ao modelo de gestao TRADICIONAL de projetos;
+-baseada em ciclos iterativos e incrementais, trazendo FLEXIBILIDADE E ADAPTABILIDADE;
+-INSPEÇÃO e ADAPTAÇÃO dos ciclos e iterações, focado em gerar MELHORIAS CONTINUAS;
+-estao focados no que agrega valor ao cliente;
+
+
+UM POUCO DE HISTORIA
+
+TAYLORISMO
+-divisao do trabalho em TAREFAS ESPECIFICAS;
+-aumento da produtividade;
+
+FORDISMO (esteira rolante)
+-divisao do trabalho em PEQUENAS TAREFAS;
+-padronização dos produtos;
+
+TOYOTISMO
+-muitas pessoas ligam a origem dos metodos ageis com a abordagem da Toyota;
+-producao diversificada;
+-ELIMINACAO DO DISPERDICIO (influencia historica no japao, pos gerra, evitar gastos e desperdicios);
+-trabalhadores com multiplas tarefas;
+
+ORIGEM DAS METODOLOGIAS AGEIS
+-em 2001 um grupo de 17 pessoas se reuniram para discutir sobre uma nova abordagem na gestao de projetos de software, ao fim da reuniao, chegaram em um concenso do que seria conhecido por Manifesto Agil;
+
+MANIFESTO AGIL 
+-como se fosse um conjunto de novos valores/principios na gestao de projetos de software;
+-individuos e interações mais que processos e ferramentas;
+-colaboração com o cliente maior q valores e contratos;
+-responder a mudanças melhor do que entrega rapida;
+-SATISFAZER O CLIENTE, MUDANÇA NOS REQUISITOS;
+-ENTREGAR FREQUENTEMENTE O SOFTWARE FUNCIONANDO;
+-AMBIENTES COM PESSOAS MOTIVADAS, CONFIAR NO TRABALHO DELAS;
+-EQUIPES ORGANIZADAS E AUTO-ORGANIZAVEIS;
+-INTERVALOS REGULARES PARA REFLEXAO SOBRE O PROJETO;
+-SIMPLICIDADE;
+
+VANTAGENS DAS METODOLOGIAS AGEIS (cliente)
+-maior valor para o usuario (atenção, paciencia, flexibilidade);
+-redução dos riscos e indesejáveis surpresas;
+-objetivos claros e priorizados;
+-transparencia;
+-melhoria da qualidade do produto final;
+
+VANTAGENS DAS METODOLOGIAS AGEIS (gestor e equipe)
+-Maior autonomia, confiança, autogestão, disciplina, regularidade na equipe;
+-pessoas comprometidas e qualificadas;
+-melhor comunicação e conexao entre os desenvolvedores;
+-antecipação dos problemas e agilidade na tomada de decisões;
+
+
+SCRUM
+-um tipo de metodologia agil e planejamento de projetos de software;
+-os projetos sao divididos em ciclos, geralmente mensais, chamados de SPRINTS(iterações);
+-SPRINT representa um TIME BOX denteo do qual um conjunto de atividades deve ser executado;
+-PRODUCT BACKLOG é o nome da lista que possui as funcionalidades que devem ser implementadas, alterações, após cada SPRINT;
+-TRANSPARENCIA, INSPEÇÃO, ADAPTAÇÃO;
+-As equipes de projetos geridos por metodologia Scrum, são compostas por tres papéis:
+PRODUCT OWNER(PO) = Conexao com o cliente, define as funcionalidades do produto
+SCRUM MASTER = Resolve problemas fora do processo de desenvolvimento
+TIME DE DESENVOLVIMENTO = Desenvolve o produto/projeto
+
+CERIMONIAS SCRUM
+SPRINT PLANNINNG
+-No inicio de cada SPRINT, olha-se para o product backlog (lista) e puxa o que será feito no Sprint, essas atividades serao desmembradas e executadas no Sprint (SPRINT TASKS);
+
+DAILY SCRUM
+-acompanhamento diario de tarefas (reuniao diária). Curtas, 15min;
+-definir oq cada um vai fazer, comentar, etc;
+
+SPRINT REVIEW
+-produzir uma conversa entre a equipe sobre como melhorar o produto, adicionando novas SPRINT TASKS no product backlog, caso necessário;
+
+RETROSPECTIVE
+-Literalmente uma retrospectiva geral sobre todo o processo de desenvolvimento do projeto entre os integrantes da equipe, visando listar melhorias que serão aplicados futuramente;
+-Uma espécie de feedback geral;
