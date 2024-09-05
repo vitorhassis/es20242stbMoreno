@@ -75,3 +75,27 @@ SPRINT REVIEW
 RETROSPECTIVE
 -Literalmente uma retrospectiva geral sobre todo o processo de desenvolvimento do projeto entre os integrantes da equipe, visando listar melhorias que serão aplicados futuramente;
 -Uma espécie de feedback geral;
+
+
+KANBAN
+-Metodologia visual de gerenciamento de tarefas que usa um quadro para representar o fluxo de trabalho;
+-tarefas divididas em categorias como: A FAZER, EM ANDAMENTO, CONCLUÍDO;
+-Equipe de desenvolvimento: implementar, testar, concluir as tarefas;
+-Lider de equipe: Monitora o fluxo de trabalho;
+-PO (Product Owner): gerencia o backlog;
+-Scrum Master: Ajuda a equipe a seguir o processo Kanban e resolver os propblemas que possam surgir;
+-Stakeholders: revisar o progresso, dar feedback sobre entregas, etc;
+-O Kanban proporciona: Visualização clara, flexibilidade, melhoria contínua, redução de tempo de ciclo;
+-Desvantagens: Escalabilidade (menos eficaz em projetos muito grandes), dependencia de disciplina (organização das tesks no quadro, por ex), visibilidade limitada;
+-Existem as ferramentas DIGITAIS de Kanban;
+
+
+EXTREME PROGRAMMING (XP)
+-O gerente nao define prioridades, nao delega tarefas (a equipe faz isso), e nem cronogramas;
+-Levar ao extremo um conjunto de práticas que são ditas como boas na eng de software;
+-mais testes, revisões, refatorações, integrações, simplicidade, iterações, etc;
+-Padronização do código;
+-programação em pares;
+-entrega em pequenas fases;
+-Valores como comunicação, simplicidade, feedback, coragem;
+-
