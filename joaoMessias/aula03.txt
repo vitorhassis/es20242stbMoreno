@@ -98,4 +98,5 @@ EXTREME PROGRAMMING (XP)
 -programação em pares;
 -entrega em pequenas fases;
 -Valores como comunicação, simplicidade, feedback, coragem;
--
+-O gerente nao define prioridades, o cliente que faz isto. Nem delega as tarefas nem duração das tarefas, os programadores fazem isto, muito menos cronogramas;
+-O gerente obtem recursos, monta a equipe, gerencia o time e resolve problemas;
