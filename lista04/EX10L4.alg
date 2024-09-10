@@ -30,7 +30,7 @@ para x de 1 ate comprimento faca
          letraMod<-minusc(c)
       fimse
    fimse
-resultado<-resultado+letraMod
+   resultado<-resultado+letraMod
 fimpara
 
 
