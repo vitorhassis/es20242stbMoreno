@@ -21,10 +21,10 @@ fimenquanto
 comp<-compr(string)
 
 para x de comp ate 1 passo -1 faca
-   se string<>"" entao
+   se string<>" " entao
       stringinv<-stringinv+copia(string,x,1)
    senao
-      stringinv<-stringinv+copia(string,x,1)
+      stringinv<-stringinv+copia(string,x+1,1) //nao consegui fazer ele retirar o espaco :(
    fimse
 fimpara
 

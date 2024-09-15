@@ -21,6 +21,6 @@ para x de 1 ate comp passo 1 faca
    senha<-senha+carac(tmp+130)
 fimpara
 
-escreva(senha)
+escreva("senha= ",senha)
 
 fimalgoritmo

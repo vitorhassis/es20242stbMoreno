@@ -10,42 +10,52 @@ algoritmo "semnome"
 // Data : 11/09/2024
 // Seção de Declarações
 var
-
-dia,ano,mes:inteiro
+data:caracter
+x,comp,dia,mes,ano:inteiro
 inicio
-enquanto (dia<1) ou (dia>31) ou (mes<1) ou (mes>12) ou (ano<1874) ou (ano>2024) faca
-   escreval("digite sua data de descimento dd/mm/aaaa: ")
-   leia(dia,mes,ano)
-fimenquanto
 
-escreval("----------------------------------------------------------------------------------------------")
+escreval("digite a data do seu nascimento (dd/mm/aaaa/): ")
+leia(data)
 
-escolha mes faca
-caso 1
-   escreva("voce nasceu em " ,dia, " de ", "janeiro de", ano)
-caso 2
-   escreva("voce nasceu em ", dia, " de ", "fevereiro de", ano)
-caso 3
-   escreva("voce nasceu em ", dia, " de ", "marco de", ano)
-caso 4
-   escreva("voce nasceu em ", dia, " de ", "abril de", ano)
-caso 5
-   escreva("voce nasceu em ", dia, " de ", "maio de", ano)
-caso 6
-   escreva("voce nasceu em ", dia, " de ", "junho sde", ano)
-caso 7
-   escreva("voce nasceu em ", dia, " de ", "julho de", ano)
-caso 8
-   escreva("voce nasceu em ", dia, " de ", "agosto de", ano)
-caso 9
-   escreva("voce nasceu em ", dia, " de ", "setembro de", ano)
+dia<-caracpnum(copia(data,1,2))
+se (dia=00) ou (dia>31) entao
+   escreva("dia 01 a 31. tente novamente")
+fimse
+
+mes<-caracpnum(copia(data,4,2))
+se (mes=00) ou (mes>12) entao
+   escreva("mes de 01 a 12. tente novamente")
+fimse
+
+ano<-caracpnum(copia(data,7,4))
+se (ano=0000) ou (ano>2024) entao
+   escreva("ano invalido. tente novamente")
+fimse
+
+escolha mes
+caso 01
+   escreva("voce nasceu em",dia, " de janeiro de",ano)
+caso 02
+   escreva("voce nasceu em",dia, " de fevereiro de",ano)
+caso 03
+   escreva("voce nasceu em",dia, " de marco de",ano)
+caso 04
+   escreva("voce nasceu em",dia, " de abril de",ano)
+caso 05
+   escreva("voce nasceu em",dia, " de maio de",ano)
+caso 06
+   escreva("voce nasceu em",dia, " de junho de",ano)
+caso 07
+   escreva("voce nasceu em",dia, " de julho de",ano)
+caso 08
+   escreva("voce nasceu em",dia, " de agosto de",ano)
+caso 09
+   escreva("voce nasceu em",dia, " de setembro de",ano)
 caso 10
-   escreva("voce nasceu em ", dia, " de ", "outubro de", ano)
+   escreva("voce nasceu em",dia, " de outubro de",ano)
 caso 11
-   escreva("voce nasceu em ", dia, " de ", "novembro de", ano)
+   escreva("voce nasceu em",dia, " de novembro de",ano)
 caso 12
-   escreva("voce nasceu em ", dia, " de ", "dezembro de", ano)
+   escreva("voce nasceu em",dia, " de dezembro de",ano)
 fimescolha
-
-
 fimalgoritmo
