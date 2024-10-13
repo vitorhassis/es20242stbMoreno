@@ -29,7 +29,7 @@ qntvogal<-0
 comp<-compr(a)
 para x de 1 ate comp faca
    c<-copia(a,x,1)
-   se (c="A") ou (c="E") ou (c="I") ou (c="O") ou (c="U") entao
+   se (c = "A") ou (c = "E") ou (c = "I") ou (c = "O") ou (c = "U") entao
       qntvogal<-qntvogal+1
    fimse
 fimpara
@@ -45,10 +45,11 @@ qntconsoante<-0
 comp<-compr(b)
 para x de 1 ate comp faca
    c<-copia(b,x,1)
-   se (c<>"A") ou (c<>"E") ou (c<>"I") ou (c<>"O") ou (c<>"U") entao
+   se (c <> "A") e (c <> "E") e (c <> "I") e (c <> "O") e (c <> "U") entao
       qntconsoante<-qntconsoante+1
    fimse
 fimpara
+retorne qntconsoante
 fimfuncao
 //-----------------------------------------------------------------------
 inicio
